@@ -13,4 +13,4 @@
 Welcome to my personal Power Bi portfolio! Here you'ill find a collection of Power Bi Projects and dashboards that demonstrate my skills with the plataform, and my expertise with data visualization, data analyse and bussiness inteligence.
 
 # About Me
-
+I am student of Mechanical Engineer focused on data analysis and decision-making. I have extensive experience in transformate raw data in meaningful insights, creating interactive dashboards and helping business making data-driven decisions. Looking for automatizate process and operations through programming languages python (pandas, numpy, os, sqlalchemy) and sql (postgresql, dbeaver, microsoft server sql). The portfolio showcases my proficiency in Power Bi, SQL, Python and highlights my abillity to communicate data in data visually. 
