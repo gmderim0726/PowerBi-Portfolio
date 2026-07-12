@@ -12,3 +12,5 @@
 
 Welcome to my personal Power Bi portfolio! Here you'ill find a collection of Power Bi Projects and dashboards that demonstrate my skills with the plataform, and my expertise with data visualization, data analyse and bussiness inteligence.
 
+# About Me
+
