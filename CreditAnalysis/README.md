@@ -4,6 +4,11 @@
 
 A bank needed a clean visualization of credit usage to mitigate default risk and reduce costumer churn. The project's goal was to build an ent-to-end pipeline to ingest raw data and create management and operational dashboards.
 
+## Source Data
+
+The dataset used in this project was obtained from **Kaggle**. It contains information about credit card clients, including their demographic profiles, credit limits, and transaction behaviors. 
+* **Link to the dataset:** [https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers]
+
 ## Key questions explored
 
 1. What are the total values for credit limit, revolving balance, and churn rate?
