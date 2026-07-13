@@ -26,8 +26,8 @@ To get start with Credit Analysis, you can follow these steps:
 
 ## Author
 - <ins><b>©2026 Guilherme Marcelo. All rights reserved</b></ins>
-- <b>[LinkedIn](www.linkedin.com/in/guilherme-marcelo-mariano)</b>
+- <b>[LinkedIn](https://www.linkedin.com/in/guilherme-marcelo-mariano)</b>
 
 ## Contact me!
 
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at LinkedIn. I would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to me on LinkedIn.
