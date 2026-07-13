@@ -12,6 +12,11 @@
 
 Welcome to my personal Power BI portfolio! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills with the platform, and my expertise in data visualization, data analysis, and Business Intelligence.
 
-# About Me
+## About Me
 I am a Mechanical Engineering student focused on data analysis and decision-making. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. I am looking to automate processes and operations through programming languages like Python (Pandas, NumPy, OS, SQLAlchemy) and SQL (PostgreSQL, DBeaver, Microsoft SQL Server). This portfolio showcases my proficiency in Power Bi, SQL, and Python, and highlights my abillity to communicate complex data visually. 
 
+---
+
+## [Project 1: Risk Credit Analysis & Operational Monitoring](./CreditAnalysis)
+
+An end-to-end structuring of a credit risk monitoring system. I developed data pipelines in Python for extraction and organized data into Views on PostgreSQL for seamless loading into Power Bi. This dashboard offers a clean visualization of the credit portfolio, allowing you to identify trends and make data-driven decisions.
