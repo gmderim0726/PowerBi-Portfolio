@@ -10,10 +10,12 @@
 
 
 
-Welcome to my personal Data Analytics portfolio! Here you will find a collection of Power BI, SQL and ETL projects, dashboards that demonstrate my skills with the platform, and my expertise in data visualization, data analysis, and Business Intelligence.
+Welcome to my Data Analytics portfolio! Here, you will find a collection of Power BI, SQL, and ETL projects that demonstrate my technical skills and expertise in data visualization, data analysis, and Business Intelligence.
 
 ## About Me
-I am a Engineering student focused on data analysis and decision-making. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. I am looking to automate processes and operations through programming languages like Python (Pandas, NumPy, OS, SQLAlchemy) and SQL (PostgreSQL, DBeaver, Microsoft SQL Server). This portfolio showcases my proficiency in Power Bi, SQL, and Python, and highlights my abillity to communicate complex data visually. 
+I am an Engineering student passionate about data analysis and data-driven decision-making. I have extensive experience in transforming raw data into actionable insights, building interactive dashboards, and supporting businesses in making informed decisions. My focus is on automating processes and operations using programming languages such as Python (Pandas, NumPy, OS, SQLAlchemy) and SQL (PostgreSQL, DBeaver, Microsoft SQL Server). This portfolio showcases my proficiency across Power BI, SQL, and Python, highlighting my ability to communicate complex data findings visually.
+
+I am currently documenting my journey in building end-to-end data pipelines, with a focus on financial performance analysis and accounting reconciliation.
 
 ---
 
